@@ -13,6 +13,7 @@
 		E850D3AA22A3B4E600322B61 /* JSONUrlParser.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E850D3A822A3B4E600322B61 /* JSONUrlParser.xcdatamodeld */; };
 		E850D3AC22A3B4E700322B61 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E850D3AB22A3B4E700322B61 /* Assets.xcassets */; };
 		E850D3AF22A3B4E700322B61 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E850D3AD22A3B4E700322B61 /* LaunchScreen.storyboard */; };
+		E850D3B722A3B54A00322B61 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E850D3B622A3B54A00322B61 /* TableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E850D3AB22A3B4E700322B61 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E850D3AE22A3B4E700322B61 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E850D3B022A3B4E700322B61 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E850D3B622A3B54A00322B61 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				E850D3A122A3B4E600322B61 /* AppDelegate.swift */,
 				E850D3A322A3B4E600322B61 /* ViewController.swift */,
+				E850D3B622A3B54A00322B61 /* TableViewCell.swift */,
 				E850D3A522A3B4E600322B61 /* Main.storyboard */,
 				E850D3AB22A3B4E700322B61 /* Assets.xcassets */,
 				E850D3AD22A3B4E700322B61 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E850D3A422A3B4E600322B61 /* ViewController.swift in Sources */,
+				E850D3B722A3B54A00322B61 /* TableViewCell.swift in Sources */,
 				E850D3A222A3B4E600322B61 /* AppDelegate.swift in Sources */,
 				E850D3AA22A3B4E600322B61 /* JSONUrlParser.xcdatamodeld in Sources */,
 			);
